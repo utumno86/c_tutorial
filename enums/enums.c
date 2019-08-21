@@ -9,6 +9,7 @@ int main()
   myGender = male;
 
   enum gender anotherGender = female;
+  printf("Your gender is %d", myGender);
 
   return 0;
 }

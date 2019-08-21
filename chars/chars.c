@@ -2,7 +2,7 @@
 
 int main()
 {
-  char myCharacter = '\n';
+  char myCharacter = 'a';
 
   printf("%c", myCharacter);
 
